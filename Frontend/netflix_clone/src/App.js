@@ -1,7 +1,10 @@
+import Profile from "./Components/Profile/Profile";
+
+
 function App() {
   return (
     <div>
-      <h1>Netflix</h1>
+      <Profile/>
     </div>
   );
 }
